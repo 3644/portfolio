@@ -211,11 +211,11 @@ Let's connect and create something great!
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-4">
               <BookOpen size={24} />
-              <span className="font-mono">Portfolio SQL Edition v2.0</span>
+              <span className="font-mono">Portfolio v2.0</span>
             </div>
             <div className="flex space-x-4">
-              <a href="#" className="hover:text-green-400 transition-colors"><Github size={24} /></a>
-              <a href="#" className="hover:text-green-400 transition-colors"><Mail size={24} /></a>
+              <a href="https://github.com/3644" className="hover:text-green-400 transition-colors"><Github size={24} /></a>
+              <a href="mailto:baptistereiter2005@gmail.com" className="hover:text-green-400 transition-colors"><Mail size={24} /></a>
             </div>
           </div>
         </div>
