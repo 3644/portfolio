@@ -51,7 +51,7 @@ function App() {
                 {currentQuery === 0 && (
                   <div className="grid grid-cols-3 gap-4 text-xs">
                     <div>name: "Baptiste Reiter"</div>
-                    <div>skills: ["Full Stack", "C++", "SQL"]</div>
+                    <div>skills: ["C", "C++", "SQL","Python","Web"]</div>
                     <div>passion: "Software Engineering"</div>
                   </div>
                 )}
@@ -88,7 +88,7 @@ function App() {
                         <span className="text-green-400">$</span> whoami
                       </div>
                       <div className="font-mono text-sm">
-                        <span className="text-green-400">&gt;</span> Full Stack Developer
+                        <span className="text-green-400">&gt;</span> Computer Science Student
                       </div>
                     </div>
                   </div>
@@ -97,7 +97,8 @@ function App() {
                   <div className="terminal-window">
                     <p className="text-green-400 mb-2">$ cat about.txt</p>
                     <p className="text-gray-300">
-                      Currently in my second year pursuing a degree in engineering at CESI in Nancy, I am seeking an internship in the field of computer science from 7th April to 25th July 2025. With expertise in programming, web development, and system management, I aim to apply my technical skills and problem-solving abilities in a dynamic and challenging work environment.
+                    Hi, I'm Baptiste Reiter, a computer science student at CESI Nancy with a passion for software development, databases, and network systems. My experience includes web development (HTML, CSS, JavaScript, PHP, SQL), programming in C, C++, and Python, as well as embedded systems and network simulations. I thrive on problem-solving and building efficient, scalable solutions.  
+Let's connect and create something great!  
                     </p>
                   </div>
                   <div className="flex space-x-4 mt-4">
