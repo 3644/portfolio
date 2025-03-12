@@ -155,7 +155,7 @@ Let's connect and create something great!
                     <p className="text-gray-600 mb-4">{project.description}</p>
                     <div className="flex items-center space-x-2 text-green-600">
                       <ExternalLink size={18} />
-                      <a href="#" className="hover:underline">View Project</a>
+                      <a href="https://github.com/3644" className="hover:underline">View Project</a>
                     </div>
                   </div>
                 ))}
